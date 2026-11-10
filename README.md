@@ -1,6 +1,6 @@
 ## Temesgen Tilahun
 
-I lead technology delivery — ten years of it across telecommunications, banking,
+I lead technology delivery, ten years of it across telecommunications, banking,
 government and enterprise IT, and currently at **Safaricom Ethiopia**. The work is turning
 business requirements into systems that go live and stay up: multiple vendors, hard
 deadlines, and the kind of integration where nobody owns the whole picture. I tend to be
